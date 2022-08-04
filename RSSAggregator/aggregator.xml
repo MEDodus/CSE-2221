@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feeds title="Top Stories">
+    <feed url="https://www.nasa.gov/rss/dyn/breaking_news.rss" name="Breaking News" file="breakingNews.html"/>
+    <feed url="https://www.nasa.gov/rss/dyn/educationnews.rss" name="Education News" file="educationNews.html"/>
+    <feed url="https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" name="Image of the Day" file="imageOfTheDay.html"/>
+</feeds>

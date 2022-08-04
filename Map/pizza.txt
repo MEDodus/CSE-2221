@@ -1,0 +1,4 @@
+Bacon 12
+Cheese 52
+Candy 63
+Maple 20

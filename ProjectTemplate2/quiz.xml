@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test class="2221" midterm="1">
+    <question number="1" type="m-c">
+        <points>15</points>
+        <parts>5</parts>
+    </question>
+    <question number="5" type="coding" />
+</test>
